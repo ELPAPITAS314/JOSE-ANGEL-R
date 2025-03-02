@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>JOSE ANGEL </TITLE>
+<TITLE>Programa Sesenta</TITLE>
 <FONT COLOR=BLACK FONT=ARIAL SIZE=50>
 PORSCHE<BR>
 <STYLE>
@@ -36,9 +36,6 @@ BORDER: 1PX SOLID BLACK;
 <TD>MNX 4,338,000</TD>
 </TR>
 </TABLE>
-  https://youtu.be/478Ay_lNpT4?si=qeVjAUF2-jAVdo5V
-  ![image](https://github.com/user-attachments/assets/8380768b-1944-4429-971c-d90ebd34cbe6)
-
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <FONT COLOR=BLACK FONT=ARIAL SIZE=50>
