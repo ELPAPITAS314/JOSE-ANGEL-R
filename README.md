@@ -1,14 +1,13 @@
 <HTML>
 <HEAD>
-<TITLE>Programa Sesenta</TITLE>
- https://raw.githubusercontent.com/ELPAPITAS314/ELPAPITAS314/refs/heads/main/trinidad.mp4 
+MI PAGINA WEB 
+ ROMERO ROLDAN JOSE ANGEL 3° "4"
+ PAGINAS WEB
+ 
 <FONT COLOR=BLACK FONT=ARIAL SIZE=50>
+
+
 PORSCHE<BR>
-<STYLE>
-TABLE, TH, TD{
-BORDER: 1PX SOLID BLACK;
-}
-</STYLE>
 </HEAD>
 <BODY BGCOLOR=#AFEEEE>
 <TABLE>
@@ -40,12 +39,13 @@ BORDER: 1PX SOLID BLACK;
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <FONT COLOR=BLACK FONT=ARIAL SIZE=50>
+https://youtu.be/478Ay_lNpT4?si=ZjC1XEjvncGL46RX
+    
+https://th.bing.com/th/id/OIP.Zj2cjTbn3ew1QnK5sCwCSwHaFj?rs=1&pid=ImgDetMain
+
+https://open.spotify.com/intl-es/track/22SXyL6pUjwIvGWvgGjLov?si=9c6c47b2d54e4d9b
+ 
 AUDI<BR>
-<STYLE>
-TABLE, TH, TD{
-BORDER: 1PX SOLID BLACK;
-}
-</STYLE>
 </HEAD>
 <BODY BGCOLOR=#AFEEEE>
 <TABLE>
@@ -74,13 +74,15 @@ BORDER: 1PX SOLID BLACK;
 <TD>MNX 3,339,900</TD>
 </TR>
 </TABLE>
-<FONT COLOR=BLACK FONT=ARIAL SIZE=50>
+<FONT COLOR=BLACK FONT=ARIAL SIZE=50
+ 
+https://youtube.com/shorts/uHblOrX2t7k?si=FvEOawYaBLUdGWdI
+ 
+https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/2023-Audi-SQ8-TFSI-SUV-orange-press-image-1001x565p-(1).jpg
+
+ https://open.spotify.com/intl-es/track/1MtUq6Wp1eQ8PC6BbPCj8P?si=9207e54eb1df47a6
+ 
 FORD<BR>
-<STYLE>
-TABLE, TH, TD{
-BORDER: 1PX SOLID BLACK;
-}
-</STYLE>
 </HEAD>
 <BODY BGCOLOR=#AFEEEE>
 <TABLE>
@@ -110,12 +112,15 @@ BORDER: 1PX SOLID BLACK;
 </TR>
 </TABLE>
 <FONT COLOR=BLACK FONT=ARIAL SIZE=50>
+
+https://www.youtube.com/shorts/cE2KTNTx6tg?feature=share
+
+https://vehicle-images.dealerinspire.com/stock-images/ford/25c8c7fe16a7af5133c8572ef7cab1ea.png
+
+https://open.spotify.com/intl-es/track/1I8tHoNBFTuoJAlh4hfVVE?si=0bdc26fdf6e348aa
+
+ 
 DODGE- RAM<BR>
-<STYLE>
-TABLE, TH, TD{
-BORDER: 1PX SOLID BLACK;
-}
-</STYLE>
 </HEAD>
 <BODY BGCOLOR=#AFEEEE>
 <TABLE>
@@ -144,18 +149,21 @@ BORDER: 1PX SOLID BLACK;
 <TD>MNX 2,514,900</TD>
 </TR>
 </TABLE>
-<STYLE>
-TABLE, TH, TD{
-BORDER: 1PX SOLID BLACK;
-BORDER-COLLAPSE: COLLAPSE;
-}
-</STYLE>
+
+https://youtu.be/loSnXQRxk1Q?si=oqrrPTea_NPwyIsD
+
+https://s1.cdn.autoevolution.com/images/news/2021-ram-1500-trx-doesnt-skip-leg-day-gets-the-wheels-and-tires-it-deserves-165434_1.jpg
+
+https://open.spotify.com/intl-es/track/6EsH66Uto1zwZlDGQ6RokU?si=1c6dd4272ad545a8
+
+
+RASCACIELOS
 </HEAD>
 <BODY BGCOLOR=#3399FF>
 <TABLE>
 <TR>
 <TH>EDIFICIO</TH>
-<TH>UBICASION</TH>
+<TH>UBICACION</TH>
 <TH>PRECIO</TH>
 <TH>ALTURA</TH>
 </TR>
@@ -210,6 +218,13 @@ BORDER-COLLAPSE: COLLAPSE;
 </TABLE>
 <MARQUEE DIRECTION=LEFT SCROLLAMOUNT=10 LOOP=25>
 <FONT COLOR=#A52A2A FONT=ARIAL SIZE=50>
+
+ https://youtu.be/_EOlpSdf85Y?si=RSuvwk1FBtkgkH2B
+
+https://img.europapress.es/fotoweb/fotonoticia_20150317145310_1200.jpg
+
+https://open.spotify.com/intl-es/track/2ISSQPb9LHHiV6ng2NXosL?si=9bdf229bd4fc42a4
+
 José Ángel Romero Roldan<BR>
 EDAD:17 AÑOS<BR>
 TERCERO IV<BR>
