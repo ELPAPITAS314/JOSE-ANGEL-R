@@ -1,38 +1,3 @@
-<script>
-var name=prompt("CUAL ES TU NOMBRE");
-var num=prompt("CUAL ES TU EDAD");
-var city=prompt("EN Q CIUDAD VIVES");
-var tel=prompt("CUAL ES TU NUMERO DE TELEFONO");
-var com=prompt("CUAL ES TU COMIDA FAV.");
-var core=prompt("PON TU CORREO ELECTRONICO");
-var dep=prompt"(CUAL ES TU DEPORTE FAVORITO");
-var col=prompt("CUAL ES TU COLOR FAVORITO");
-var car=prompt("CUAL ES TU CARRO FAVORITO")
-var cali=prompt("CUAL FUE TU CALIFICACION EN ESTE PARCIAL");
-alert ("HOLA" +name+"!");
-alert (num + "ESTA ES TU EDAD");
-alert ("VIVO EN"+city)
-alert ("MI NUMERO DE TELEFONO ES" +tel)
-alert ("MI COMIDA FAV. ES"+com);
-alert ("MI CORREO ES"+core);
-alert ("MI DEPORTE FAV ES"+dep); 
-alert ("MI COLOR FAV ES"+col);
-alert ("MI CARRO FAV ES");
-alert ("MI CALIFICACIO FUE");
-</script>
-<script>
-alert ("te puedo preguntar algo?")
-alert ("q color te recuerda ami?")
-alert ("como un azul")
-alert ("pq eres tranquilo como el mar")
-
-alert ("y ti?")
-alert ("q color te recuerda ami?")
-alert ("se que no estyo loco")
-alert ("me miras tan distinto y sabes bien q lo noto")
-alert ("tu piel se hace de hielo cada vez q te toco")
-alert ("y nos vas congelando poco a poco")
-</script>
 <HTML>
 <HEAD>
 <TITLE>Programa Sesenta</TITLE>
@@ -71,6 +36,9 @@ BORDER: 1PX SOLID BLACK;
 <TD>MNX 4,338,000</TD>
 </TR>
 </TABLE>
+  https://youtu.be/478Ay_lNpT4?si=qeVjAUF2-jAVdo5V
+  ![image](https://github.com/user-attachments/assets/8380768b-1944-4429-971c-d90ebd34cbe6)
+
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <FONT COLOR=BLACK FONT=ARIAL SIZE=50>
